@@ -6,7 +6,7 @@
 * Et mapbox som viser lokationen på stedet
 * Vejrudsigt over Aarhus
 
-![oktoberfest.jpg](oktoberfest.jpg)
+![oktoberfest.jpg](images/oktoberfest.jpg)
 
 [Designbywittig](http://www.designbywittig.dk/eaaa/individual/)
 

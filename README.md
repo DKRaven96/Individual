@@ -1,2 +1,2 @@
-# Individual
-Individual asignment
+# Individuel opgave
+## som omhandler Oktoberfest

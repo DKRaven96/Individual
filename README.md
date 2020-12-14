@@ -8,7 +8,7 @@
 
 ![oktoberfest.jpg](images/oktoberfest.jpg)
 
-[Designbywittig](http://www.designbywittig.dk/eaaa/individual/)
+[Designbywittig - Individuel opgave](http://www.designbywittig.dk/eaaa/individual/)
 
 
 ## Eksempel på kode:
